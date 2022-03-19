@@ -1,4 +1,4 @@
-package com.cooffee.catalog
+package com.cooffee
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
